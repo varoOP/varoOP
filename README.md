@@ -14,10 +14,6 @@ Currently, I’m working on [shinkro](https://github.com/varoOP/shinkro) — an 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varoOP&theme=tokyonight&hide_border=true" height="160px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varoOP&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
