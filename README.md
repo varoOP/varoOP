@@ -10,6 +10,7 @@ Currently, I’m working on [shinkro](https://github.com/varoOP/shinkro) — an 
 ## 📊 GitHub Stats
 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=varoOP)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varoOP&layout=compact)
 ---
 
 ## 🛠️ Tech Stack
